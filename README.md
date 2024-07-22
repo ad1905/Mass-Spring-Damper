@@ -17,6 +17,17 @@ The initial deflection for the spring is 1 meter is displayed in simscape model
 
 
 **Simulink Model**
+
+
+
+
+
+
+
+
+
+
+
 <img width="500" src="https://github.com/ad1905/Mass-Spring-Damper/blob/main/SimulationDiagram.png"/>
 
 
@@ -26,5 +37,21 @@ The initial deflection for the spring is 1 meter is displayed in simscape model
 
 
 
+
+
+
+
 **Result On MATLAB**
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="450" src="https://github.com/ad1905/Mass-Spring-Damper/blob/main/Result.png"/>
